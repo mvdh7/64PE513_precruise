@@ -30,7 +30,7 @@ The pink points on each plot are the stations from the potential route at the bo
 
 ### Reanalysis model forecasts
 
-The following plots are forecasts for 3<sup>rd</sup> February 2023, which is as far ahead as is currently available.
+The following plots are forecasts for 3<sup>rd</sup> February 2023, which is as far ahead as is currently available.  Things will change over the subsequent days but the major features should not alter significantly.
 
 #### Nutrients
 
