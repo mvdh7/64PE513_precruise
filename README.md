@@ -88,7 +88,7 @@ An example route taking 4 days of transit (thus leaving 48 hours for science):
 
   - It would probably be more sensible to go in the opposite shown so we can put out the mooring first (station 4).
   - Station 3 is over the "Erica" seamount.
-  - Station 2 hits the Agulhas retroflection thus switching to Indian Ocean waters.  There's a filament of high productivity (see chlorophyll, NPP and phytoplankton plots) at the boundary where (from looking at the nutrient maps) the limiting nutrient switches from iron to phosphate.  Might be very interesting to sample the boundary plus points either side.
+  - Station 2 hits the Agulhas retroflection thus switching to Indian Ocean waters.  There's a filament of high productivity (see chlorophyll, NPP and phytoplankton plots) at the boundary where (from looking at the nutrient maps) the limiting nutrient switches from iron to phosphate.  Might be very interesting to sample the boundary plus points either side.  Could be pushed northwards to fall closer to the line between 3 and 1 to save a bit of time.
   - Station 1 could probably be brought a lot closer to the line between 2 and Cape Town to save time - we'd save ~6 hours of transit time by skipping it completely.
 
 Disadvantage of the route: we don't return to any location twice, so couldn't deploy floating sediment traps.  But I think that recovering these under time pressure is quite risky - need to discuss with someone more experienced if these are of serious interest.
