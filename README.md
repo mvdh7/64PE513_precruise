@@ -2,6 +2,8 @@
 
 There are a couple of seamounts outside the EEZ (called Schmidt-Ott and Erica) that we should be able to reach, if of interest.  Seamounts will have a bunch of stuff living on top of them and could have upwelling of deep nutrients up their sides.
 
+In the map below, the pinkish-red shaded area shows the EEZ (200 nm from the coast) within which we cannot do any sampling.
+
 ![Map including EEZ and MPAs](https://raw.githubusercontent.com/mvdh7/64PE513/main/figures/eez-map.png)
 
 More detailed bathymetry from GEBCO:
