@@ -1,6 +1,13 @@
-# 64PE513 planning
+## Bathymetry
+
+There are a couple of seamounts outside the EEZ (called Schmidt-Ott and Erica) that we might be able to reach.
+
+![GEBCO bathymetry](https://raw.githubusercontent.com/mvdh7/64PE513/main/figures/bathymetry-gebco.png)
+
+# Expected conditions
 
 The pink points on each plot are possible mooring locations.  The one furthest west was the original plan.  The more easterly two are probably not possible due to the logistics of the collection in a year's time.  The northernmost one is right on the edge of the EEZ and should take just over 24 hours to reach from Cape Town.
+
 
 ## Reanalysis model forecasts
 
